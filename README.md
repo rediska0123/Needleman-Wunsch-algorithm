@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/github/rediska0123/Needleman-Wunsch-algorithm?branch=master)]
-(https://travis-ci.org/rediska0123/Needleman-Wunsch-algorithm)
+[![Build Status](https://travis-ci.com/rediska0123/Needleman-Wunsch-algorithm.svg?branch=master)](https://travis-ci.org/rediska0123/Needleman-Wunsch-algorithm)
 
 # Needleman-Wunsch-algorithm
 
