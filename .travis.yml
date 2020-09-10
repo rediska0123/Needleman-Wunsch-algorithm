@@ -8,4 +8,4 @@ install:
 
 script:
   - pytest
-  - python meedleman_wunsch_test.py
+  - python needleman_wunsch_test.py
