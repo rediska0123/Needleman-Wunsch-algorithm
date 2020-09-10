@@ -12,7 +12,7 @@ pip3 install requirements.txt
 ```
  or manually install each package provided in `requirements.txt` file.
 
-##Usage
+## Usage
 For executing the algorithm provide input data in `input.txt` in the following format:
 
 ```
